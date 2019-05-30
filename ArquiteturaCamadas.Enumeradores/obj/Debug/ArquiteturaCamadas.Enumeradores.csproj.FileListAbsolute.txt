@@ -1,0 +1,5 @@
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Enumeradores\bin\Debug\ArquiteturaCamadas.Enumeradores.dll
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Enumeradores\bin\Debug\ArquiteturaCamadas.Enumeradores.pdb
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Enumeradores\obj\Debug\ArquiteturaCamadas.Enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Enumeradores\obj\Debug\ArquiteturaCamadas.Enumeradores.dll
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Enumeradores\obj\Debug\ArquiteturaCamadas.Enumeradores.pdb

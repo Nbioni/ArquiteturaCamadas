@@ -1,0 +1,8 @@
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Interfaces\bin\Debug\ArquiteturaCamadas.Interfaces.dll
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Interfaces\bin\Debug\ArquiteturaCamadas.Interfaces.pdb
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Interfaces\bin\Debug\ArquiteturaCamadas.Enumeradores.dll
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Interfaces\bin\Debug\ArquiteturaCamadas.Enumeradores.pdb
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Interfaces\obj\Debug\ArquiteturaCamadas.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Interfaces\obj\Debug\ArquiteturaCamadas.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Interfaces\obj\Debug\ArquiteturaCamadas.Interfaces.dll
+C:\Users\nahab\source\repos\ArquiteturaCamadas\ArquiteturaCamadas.Interfaces\obj\Debug\ArquiteturaCamadas.Interfaces.pdb
