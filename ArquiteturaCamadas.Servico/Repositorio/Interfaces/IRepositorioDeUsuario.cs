@@ -1,9 +1,3 @@
-﻿// ------------------------------------------------------------------------------------------------------------------
-//  <copyright file="IRepositorioDeDiaria.cs" company="TCE - Tribunal de Contas do Estado de Goiás">
-//  Copyright (c) 2016. Todos os Direitos Reservados
-//  </copyright>
-// ------------------------------------------------------------------------------------------------------------------
-
 // ------------------------------------------------------------------------------------------------------------------
 //  <copyright file="RepositorioDeUsuarios.cs" company="Nahaliel Bioni">
 //  Copyright (c) 2019. Todos os Direitos Reservados
